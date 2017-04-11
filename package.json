@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-easygenerator",
+  "version": "1.0.0",
+  "description": "ESLint shareable config for Easygenerator projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easygenerator/eslint-config-easygenerator.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "shareable",
+    "easygenerator"
+  ],
+  "author": "petriv.roma@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easygenerator/eslint-config-easygenerator/issues"
+  },
+  "homepage": "https://github.com/easygenerator/eslint-config-easygenerator#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
